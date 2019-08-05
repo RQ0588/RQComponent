@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RQComponent_Tests' do
+  pod 'RQComponent', :path => '../'
+  
+  
+end
