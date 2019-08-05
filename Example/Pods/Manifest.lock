@@ -1,0 +1,16 @@
+PODS:
+  - RQComponent (0.1.0)
+
+DEPENDENCIES:
+  - RQComponent (from `../`)
+
+EXTERNAL SOURCES:
+  RQComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RQComponent: 11bfa03b5e9140595caa26856c86f2c1a73b8211
+
+PODFILE CHECKSUM: c8d1df2e88853324a1d799f50487a28bd124d1cb
+
+COCOAPODS: 1.5.3

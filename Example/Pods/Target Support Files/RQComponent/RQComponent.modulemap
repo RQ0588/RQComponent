@@ -1,0 +1,6 @@
+framework module RQComponent {
+  umbrella header "RQComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

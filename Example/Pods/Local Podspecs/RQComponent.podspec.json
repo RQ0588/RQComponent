@@ -1,0 +1,22 @@
+{
+  "name": "RQComponent",
+  "version": "0.1.0",
+  "summary": "A short description of RQComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RQ0588/RQComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RQ0588": "895403189@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/RQ0588/RQComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RQComponent/Classes/**/*"
+}
